@@ -73,6 +73,3 @@ MozillaPH recognizes the importance of protecting the personal data of everyone 
 ## **TeamFreebies Clause**
 
 All activities and events organized by the Mozilla Philippines Community (MozillaPH) are carefully planned and well thought of. Being a non-profit organization, every cent that goes to the funding of our activities and events are very important. All MozillaPH activities and events, unless otherwise stated or explicitly invited, require an RSVP from attendees. At present, MozillaPH utilizes Eventbrite.com for RSVP purposes. MozillaPH does not tolerate any form of gatecrashing to our activities and events. We reserve the right to deny entry to anyone who had previously been found violating this Code of Conduct or had failed to RSVP to any of our activities or event. This is done to ensure that all those who RSVPd will be accommodated. Registrants who fail to attend without canceling his/her RSVP have been barred from signing-up for our future activities and events.
-
-
-<!-- Docs to Markdown version 1.0β17 -->
