@@ -27,6 +27,10 @@ All members of the Mozilla Philippines Community (MozillaPH) and attendees to ou
 *   Refrain from demeaning, discriminatory, or harassing behavior and speech.
 *   Be mindful of your surroundings and your fellow members and/or activity/event participants. Please alert the MozillaPH community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 
+**Understand Different Perspective**
+
+Our goal should not be to “win” every disagreement or argument. A more productive goal is to be open to ideas that make our own ideas better. Strive to be an example for inclusive thinking. “Winning” is when different perspectives make our work richer and stronger. 
+
 ## **Unacceptable Behavior**
 
 Unacceptable behaviors include: 
