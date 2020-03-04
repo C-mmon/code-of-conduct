@@ -77,3 +77,19 @@ MozillaPH recognizes the importance of protecting the personal data of everyone 
 ## **TeamFreebies Clause**
 
 All activities and events organized by the Mozilla Philippines Community (MozillaPH) are carefully planned and well thought of. Being a non-profit organization, every cent that goes to the funding of our activities and events are very important. All MozillaPH activities and events, unless otherwise stated or explicitly invited, require an RSVP from attendees. At present, MozillaPH utilizes Eventbrite.com for RSVP purposes. MozillaPH does not tolerate any form of gatecrashing to our activities and events. We reserve the right to deny entry to anyone who had previously been found violating this Code of Conduct or had failed to RSVP to any of our activities or event. This is done to ensure that all those who RSVPd will be accommodated. Registrants who fail to attend without canceling his/her RSVP have been barred from signing-up for our future activities and events.
+
+## **Reporting**
+
+If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please use our online Contact Form [https://www.mozillaphilippines.org/contact-us/] or email info@mozillaphilippines.org
+
+After receiving a concise description of your situation, the leadership of MozillaPH will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation. 
+
+Please also report to us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you.
+
+If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process. 
+
+## **License and Attribution**
+
+This set of guidelines is distributed under a Creative Commons Attribution-ShareAlike license [https://creativecommons.org/licenses/by-sa/3.0/].
+
+These guidelines have been adapted with modifications from Mozilla's original Community Participation Guidelines [https://www.mozilla.org/en-US/about/governance/policies/participation/]. This document and all associated processes are only possible with the hard work of many Pinoy Mozillians. 
